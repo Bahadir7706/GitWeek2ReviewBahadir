@@ -1,2 +1,5 @@
-package day02Work;public class Work02 {
+package day02Work;
+
+public class Work02 {
+
 }
